@@ -1,0 +1,10 @@
+.progressBar {
+  width: 100%;
+  position: relative;
+  height: 5px;
+  outline: none;
+  appearance: none;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.1);
+}
+
